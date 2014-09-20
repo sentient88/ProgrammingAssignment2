@@ -1,3 +1,6 @@
+## Reference is taken from the example provided in the Assignment
+## that is used to cache the mean of a numeric vector.
+
 ## Matrix inversion is usually a costly computation, hence it may
 ## make sense to cache the inverse of a matrix rather than compute
 ## it repeatedly.
